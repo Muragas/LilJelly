@@ -1,1 +1,1 @@
-print("Zdrastite")
+print("Zdrastite upiry")
