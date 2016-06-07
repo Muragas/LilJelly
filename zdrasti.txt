@@ -1,2 +1,2 @@
-print("Zdrastite upiry")
- vqjsb jsbaflvhbSLJFVHBQE;
+print("Zdrastite upiry"):
+ vqjsb jsbaflvhbSLJFVHBQE:
